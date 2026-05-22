@@ -48,7 +48,18 @@ Topics covered:
 - Decision boundary visualization
 
 ---
+### 4. Gradient Descent Implementation
 
+Gradient Descent is implemented manually to optimize Logistic Regression weights.
+
+The implementation includes:
+- adding bias term manually
+- initializing weights
+- computing predictions using sigmoid
+- updating weights iteratively
+- learning rate tuning
+
+---
 ## Technologies Used
 
 - Python
@@ -67,6 +78,7 @@ Topics covered:
 - Sigmoid Function
 - Perceptron Learning Rule
 - Weights and Bias
+- Gradient Descent
 - Decision Boundary Visualization
 - Logistic Regression Basics
 
